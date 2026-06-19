@@ -1,5 +1,8 @@
 # AS Beleza
 
-Site demonstrativo FarolTech 10k/7dias.
+Site premium demonstrativo FarolTech 10k/7dias.
 
-Admin demo: `/admin` — admin@as_beleza.com / FarolTech2026
+- WhatsApp button
+- Chatwoot widget FarolChat
+- Admin: `/admin` — admin@as_beleza.com / FarolTech2026
+- Logo: fallback-premium
