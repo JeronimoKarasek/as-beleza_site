@@ -1,0 +1,30 @@
+{
+  "empresa": "AS Beleza",
+  "categoria": {
+    "label": "Beleza / salão",
+    "palette": [
+      "#3b0820",
+      "#f0a6ca",
+      "#fff1f2"
+    ],
+    "cta": "Agendar horário",
+    "features": [
+      "Agenda de serviços",
+      "Galeria antes/depois",
+      "Pacotes e combos de beleza",
+      "Admin para agenda, serviços e profissionais"
+    ],
+    "seed": [
+      "Cortes",
+      "Coloração",
+      "Escova",
+      "Manicure",
+      "Tratamentos"
+    ]
+  },
+  "socials": {
+    "Instagram": "https://www.instagram.com/p/DYF41uWlc-I",
+    "Facebook": "https://www.facebook.com/groups/313511452154782"
+  },
+  "telefone": "11962891422"
+}
